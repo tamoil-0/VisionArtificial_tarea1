@@ -1,0 +1,59 @@
+{
+  "fuente": "Wikimedia Commons API",
+  "url_api": "https://commons.wikimedia.org/w/api.php",
+  "consulta_por_denominacion": {
+    "10c": [
+      "Peru 10 centimos coin",
+      "10 centimos peru coin"
+    ],
+    "20c": [
+      "Peru 20 centimos coin",
+      "20 centimos peru coin"
+    ],
+    "50c": [
+      "Peru 50 centimos coin",
+      "Reverso 50 centimos peru"
+    ],
+    "1s": [
+      "Peru 1 sol coin",
+      "un sol peru coin"
+    ],
+    "2s": [
+      "Peru 2 soles coin",
+      "2 soles peru coin"
+    ],
+    "5s": [
+      "Peru 5 soles coin",
+      "5 y 2 soles Peru coin"
+    ]
+  },
+  "archivos": {
+    "10c": [
+      "assets_scraping\\10c\\10_c_ntimos_de_Inti_anv_1985_png.jpg",
+      "assets_scraping\\10c\\10_c_ntimos_de_Inti_anv_1985_png.jpg"
+    ],
+    "20c": [
+      "assets_scraping\\20c\\Ttm-moneda-20-centimos-peru-1992_jpg.jpg",
+      "assets_scraping\\20c\\Ttm-moneda-20-centimos-peru-1992_jpg.jpg"
+    ],
+    "50c": [
+      "assets_scraping\\50c\\Reverso_50_centimos_peru_jpg.jpg",
+      "assets_scraping\\50c\\Reverso_50_centimos_peru_jpg.jpg"
+    ],
+    "1s": [
+      "assets_scraping\\1s\\1_sol-Peso_Guatemala_Peru_-_1891_png.jpg",
+      "assets_scraping\\1s\\1_sol-Peso_Peru_Guatemala_1891_jpg.jpg",
+      "assets_scraping\\1s\\1_sol_Peru_-_1870_png.jpg",
+      "assets_scraping\\1s\\1_sol_Peru_1891_png.jpg"
+    ],
+    "2s": [
+      "assets_scraping\\2s\\20_Soles_de_Oro_1966_Combate_del_2_de_Mayo_Anverso_jpg.jpg",
+      "assets_scraping\\2s\\20_Soles_de_Oro_1966_Combate_del_2_de_Mayo_Reverso_jpg.jpg",
+      "assets_scraping\\2s\\5_y_2_soles_jpg.jpg"
+    ],
+    "5s": [
+      "assets_scraping\\5s\\5_Soles_de_Oro_1963_Libertad_Sentada_Anverso_jpg.jpg",
+      "assets_scraping\\5s\\5_Soles_de_Oro_1963_Libertad_Sentada_Reverso_jpg.jpg"
+    ]
+  }
+}
